@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2>Hi There!😎</h2> 
 
-<!--
-**Pedrowilliam14/Pedrowilliam14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Pedro William, sou programador front-end e atualmente estou aprendendo e criando projetos com:
+<br>
+<br>
+-HTML
+<br>
+-CSS
+<br>
+<br>
+E, iniciando o aprendizado com Javascript e React!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
